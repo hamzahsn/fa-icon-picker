@@ -1,0 +1,17 @@
+{
+  "name": "fa-icon-picker",
+  "version": "1.0.0",
+  "description": "A font awesome icon picker for react, angular and vue!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "font awesome",
+    "react",
+    "angular",
+    "vue"
+  ],
+  "author": "amdouni.hamza.hsn@gmail.com",
+  "license": "ISC"
+}
